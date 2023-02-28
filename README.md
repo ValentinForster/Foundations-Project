@@ -1,6 +1,6 @@
 # Foundations-Project
 
-Research Questions:
+Research Questions:  
 We are interested in the relationship between the popularity 
 measurement of musicians, as output by Spotify, and the number of 
 followers of an artist on Spotify.
@@ -13,7 +13,7 @@ analysis, we will look at the top 100 songs of 2022 and evaluate what
 the most critical features (like danceability, energy, liveness, …) 
 were and if there are any features correlated with a song's popularity.
 
-Hypotheses:
+Hypotheses:  
 The popularity measurement of an artist correlates positively with the 
 number of followers. The higher the popularity measurement of an 
 artist, the higher the number of followers.
